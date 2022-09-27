@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Aug 21 09:36:50 2021
+
+@author: jayan
+"""
+
+M -> Toggles walkable node as obstacle and vice versa
+S -> Toggles any node to start or start to walkable node
+E -> Toggles any node to end or end to walkable node
+W -> Toggles any  node to walkable node
+Q -> Disables all toggle effects
+R -> updates neighbours of all nodes
+T -> Runs BFS
+Y -> Runs DFS
+U -> Toggles animation
+N -> creates a new randomized board
+A -> Runs A*
+D -> Runs Dijkstra
